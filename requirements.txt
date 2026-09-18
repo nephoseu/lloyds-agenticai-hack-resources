@@ -1,0 +1,4 @@
+# No Python packages are required.
+#
+# ask_agent.py uses only the Python standard library. It requires Python 3.9+
+# and the Google Cloud CLI (gcloud) installed separately.
